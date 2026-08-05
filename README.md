@@ -41,6 +41,31 @@ The application will provide an online marketplace where equipment owners can re
 - IoT-based equipment monitoring.
 - Offline rental management.
 - Delivery and transportation of equipment.
+- ## 10.Project Objectives
+- Develop an online platform for renting agricultural equipment.
+- Help farmers easily search and book equipment.
+- Enable equipment owners to list and manage their equipment.
+- Provide a secure and efficient booking management system.
+- Reduce the time and effort involved in the traditional rental process.
+- ## 11.Technology Stack
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Backend
+- Java
+- Spring Boot
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Maven
+- Postman
+- VS Code / IntelliJ IDEA
 
 ## 10. Chosen Track
 Java (Spring Boot)
